@@ -29,17 +29,6 @@
 
 **********************************************/
 
-
-
-
-
-
-/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
-/*7
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -51,7 +40,6 @@
  * Vendor-prefixed and regular ::selection selectors cannot be combined:
  * https://stackoverflow.com/a/16982510/7133471
  *
- * Customize the background color to match your design.
  */
 
 ::-moz-selection {
@@ -316,7 +304,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "Open Sans",sans-serif;
+	font-family: "HK Grotesk",sans-serif;
 	color: #2f2f2f;
 	margin-top: 0px;
 	font-style: normal;
@@ -332,7 +320,7 @@ h6 a {
 	color: inherit;
 }
 p{
-	font-family: "Open Sans",sans-serif;
+	font-family: "HK Grotesk",sans-serif;
 	font-weight:500;
 	color:#828282;
 	line-height:30px;

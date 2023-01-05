@@ -40,7 +40,7 @@ $(document).ready(function(){
     var $typed = $("#typed");
     if ($typed.length > 0) {
       $typed.typed({
-        strings: ["Data Engineer ", "Android Developer", "Data Scientist" , " Machine Learning Engineer" , "Full Stack Developer" , "SystemDev Ops"],
+        strings: ["a Data Engineer ", "a Machine Learning Engineer" , "a Full Stack Software Engineer" , "a SystemDevOps Engineer" , "a Cybersecurity Analyst" ,"an Android Developer" ,"a Financial Analyst"],
         stringsElement: null,
         typeSpeed: 40,
         startDelay: 150,
